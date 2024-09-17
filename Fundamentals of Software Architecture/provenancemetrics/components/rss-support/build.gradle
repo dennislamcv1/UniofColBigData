@@ -1,6 +1,0 @@
-processTestResources {
-    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-}
-
-dependencies {
-}
