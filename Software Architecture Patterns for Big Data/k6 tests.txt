@@ -1,0 +1,7 @@
+Number of iterations: 5167
+
+Percentage of checks passed: 99 %
+
+Median HTTP request duration: 187 ms
+
+HTTP requests failed: 1
